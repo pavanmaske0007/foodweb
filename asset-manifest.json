@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/foodweb/static/css/main.6ee1830e.css",
-    "main.js": "/foodweb/static/js/main.49ab063c.js",
+    "main.js": "/foodweb/static/js/main.2366b02e.js",
     "static/media/header_image.png": "/foodweb/static/media/header_image.87c84a24f79531681564.png",
     "static/media/header_img.png": "/foodweb/static/media/header_img.87c84a24f79531681564.png",
     "static/media/food_4.png": "/foodweb/static/media/food_4.49c25dfbf26ca41b7c88.png",
@@ -46,10 +46,10 @@
     "static/media/menu_4.png": "/foodweb/static/media/menu_4.954b7fb395c46eda438f.png",
     "index.html": "/foodweb/index.html",
     "main.6ee1830e.css.map": "/foodweb/static/css/main.6ee1830e.css.map",
-    "main.49ab063c.js.map": "/foodweb/static/js/main.49ab063c.js.map"
+    "main.2366b02e.js.map": "/foodweb/static/js/main.2366b02e.js.map"
   },
   "entrypoints": [
     "static/css/main.6ee1830e.css",
-    "static/js/main.49ab063c.js"
+    "static/js/main.2366b02e.js"
   ]
 }
