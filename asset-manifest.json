@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/foodweb/static/css/main.addccc93.css",
-    "main.js": "/foodweb/static/js/main.b2bc1d74.js",
+    "main.css": "/foodweb/static/css/main.503ccabe.css",
+    "main.js": "/foodweb/static/js/main.c66cb870.js",
     "static/media/header_image.png": "/foodweb/static/media/header_image.87c84a24f79531681564.png",
     "static/media/header_img.png": "/foodweb/static/media/header_img.87c84a24f79531681564.png",
     "static/media/food_4.png": "/foodweb/static/media/food_4.49c25dfbf26ca41b7c88.png",
@@ -45,11 +45,11 @@
     "static/media/menu_2.png": "/foodweb/static/media/menu_2.e67909d4321967495cac.png",
     "static/media/menu_4.png": "/foodweb/static/media/menu_4.954b7fb395c46eda438f.png",
     "index.html": "/foodweb/index.html",
-    "main.addccc93.css.map": "/foodweb/static/css/main.addccc93.css.map",
-    "main.b2bc1d74.js.map": "/foodweb/static/js/main.b2bc1d74.js.map"
+    "main.503ccabe.css.map": "/foodweb/static/css/main.503ccabe.css.map",
+    "main.c66cb870.js.map": "/foodweb/static/js/main.c66cb870.js.map"
   },
   "entrypoints": [
-    "static/css/main.addccc93.css",
-    "static/js/main.b2bc1d74.js"
+    "static/css/main.503ccabe.css",
+    "static/js/main.c66cb870.js"
   ]
 }
